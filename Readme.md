@@ -1,0 +1,1 @@
+A studying note of myself
