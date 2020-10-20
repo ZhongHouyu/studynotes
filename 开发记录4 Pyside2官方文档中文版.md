@@ -85,7 +85,7 @@ class MyWidget(QtWidgets.QWidget):
 ···
 在MyWidget类中有一个magic函数，通过产生随机数来选择不同语言的“你好”  
 
-3.现在，在主函数中示例一个MyWidget，并展示它  
+3.现在，在主函数中示例一个`MyWidget`，并展示它  
 
 ```
 if __name__ == "__main__":
